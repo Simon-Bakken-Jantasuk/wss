@@ -3,7 +3,7 @@
 
 You could call this experimental– either way now you have an idea on how to scrape data from a website.
 
-dts:
+dti:
   sxiv
   wget
   curl
