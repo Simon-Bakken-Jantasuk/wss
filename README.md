@@ -1,2 +1,2 @@
 # wss
-wallhaven.cc picture scraper
+wallhaven.cc script scraper
